@@ -18,6 +18,5 @@ public class OneDimensionalArray {
 		for(int b:a) {
 			System.out.println(b);
 		}
-		System.out.println("vuhv");
 	}
 }
